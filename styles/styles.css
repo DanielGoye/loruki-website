@@ -47,6 +47,7 @@ body {
   background-color: var(--primary-color);
   color: var(--light-color);
 }
+
 .button-style-link {
   text-decoration: none;
   color: white;
